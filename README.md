@@ -8,5 +8,8 @@ Overview
 ===
 A basic simulation is included showing how EEG-like signal can be bandpass filtered, decomposed into power bands and pre-processsed by moving average to be used as features for training an EEG-to-fMRI translation ANN model.
 
+References
+===
+
 [1.] Grooms, J. K., Thompson, G. J., Schwarb, H., Schumacher, E., Schmidt, R., Epstein, C., & Keilholz, S. D. (2012). Low-frequency EEG correlates of fMRI in the resting state. BMC neuroscience, 13(1), 1-2.
 
